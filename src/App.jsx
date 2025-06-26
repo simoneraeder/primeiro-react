@@ -8,7 +8,8 @@ function App() {
     <>
       <Capslock>
         
-        qualquer texto ficará em caps</Capslock> 
+        qualquer texto ficará em caps
+        </Capslock> 
     </>
   )
 }
