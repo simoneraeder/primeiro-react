@@ -1,0 +1,18 @@
+:root{
+    --primary-color: #3498db;
+    --secondary-color: #646cff;
+   
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body, input,textarea, button{
+    font-size: 1rem;
+    font-family: sans-serif;
+}
