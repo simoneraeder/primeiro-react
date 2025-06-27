@@ -1,6 +1,7 @@
 
 import Capslock from './components/Capslock/Capslock'
 import { OlaNome } from './components/OlaNome/OlaNome'
+import {Card} from './components/Card/Card'
 
 
 
