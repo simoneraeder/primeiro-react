@@ -4,8 +4,8 @@ export function Contador(){
 const [contador, setContador] = useState(1);
 
 const adicionarContador = () => {
-    setContador(contador + 1);
-
+    setContador((prevState) => prevState + 1);
+ 
 };
 return(
     <div>
